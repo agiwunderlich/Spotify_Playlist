@@ -31,18 +31,14 @@ Before running the code, make sure you have the following:
 
 The utility accepts command-line arguments to customize the playlist generation:
 
-    \`\`\`
     python playlist_generator.py [-p PROMPT] [-n COUNT]
-    \`\`\`
 
 -p PROMPT: The prompt to describe the playlist. Default: "fun songs".
 -n COUNT: The number of songs to add to the playlist. Default: 8.
 
 Example usage:
 
-\`\`\`
-python playlist_generator.py -p "upbeat summer vibes" -n 10
-\`\`\`
+    python playlist_generator.py -p "upbeat summer vibes" -n 10
 
 The generated playlist will be printed to the console and added to your Spotify account as a private playlist.
 
