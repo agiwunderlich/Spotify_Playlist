@@ -49,3 +49,5 @@ The generated playlist will be printed to the console and added to your Spotify 
 3. The Spotify API is used to search for each song and retrieve its track ID.
 4. A new private playlist is created on your Spotify account with the name specified in the prompt.
 5. The retrieved track IDs are added to the created playlist.
+
+![Spotify_Playlist](Spotify_Playlist.gif)
